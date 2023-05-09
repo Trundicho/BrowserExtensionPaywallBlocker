@@ -1,4 +1,4 @@
-# Extension paywall news remover
+# Paywall Blocker (Chrome extension)
 
 A simple chrome extension to remove news that are behind a paywall
 
