@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Paywall Blocker Extension",
+  "description": "Removes news that are behind a paywall",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "block-paywall-news.js"
+      ],
+      "all_frames": true
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}
