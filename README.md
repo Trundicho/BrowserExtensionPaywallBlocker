@@ -14,7 +14,8 @@ A simple chrome extension to remove news that are behind a paywall
 - zeit.de
 - spiegel.de
 
-If you want to contribute to support more web pages you are welcome to extend the block-paywall-news.js.
+If you want to contribute to support more web pages you are welcome to extend the block-paywall-news.js and create a 
+branch PR.
 
 ## Install chrome extension
 
